@@ -4,10 +4,10 @@ module.exports = {
 	author: 'Kenny Whyte',
 	url: 'https://portfolio.smakosh.com',
 	legalName: 'Kenny Whyte',
-	defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+	defaultDescription: 'I’m Kenny and I’m a Backend & Devops engineer!',
 	socialLinks: {
 		twitter: 'http://www.twitter.com/smakosh',
-		github: 'https://github.com/smakosh',
+		github: 'https://github.com/kawhyte',
 		linkedin: 'https://www.linkedin.com/in/ismail-ghallou-630149122/',
 		instagram: 'https://instagram.com/smakosh19',
 		youtube: 'https://www.youtube.com/user/smakoshthegamer',
@@ -18,7 +18,7 @@ module.exports = {
 	backgroundColor: '#6b63ff',
 	social: {
 		facebook: 'appId',
-		twitter: '@smakosh',
+		twitter: '@kawhyte',
 	},
 	address: {
 		city: 'City',
@@ -30,6 +30,6 @@ module.exports = {
 		email: 'email',
 		phone: 'phone number',
 	},
-	foundingDate: '2018',
+	foundingDate: '2019',
 	recaptcha_key: '6Lcs6lQUAAAAAEwhNH2IsobIe2csdda4TU3efpMN'
 }

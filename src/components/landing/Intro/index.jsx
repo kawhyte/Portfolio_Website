@@ -10,14 +10,14 @@ export const Intro = () => (
 		<Header />
 		<IntroWrapper as={Container}>
 			<Details>
-				<h1>Hi There!</h1>
-				<h4>I’m John and I’m a Backend & Devops engineer!</h4>
+				<h1>Hi There, I’m Kenny!</h1>
+				<h4>Software Developer | Amateur Astronomer | Weightlifter</h4>
 				<Button as={AnchorLink} href="#contact">
-					Hire me
+					Click me
 				</Button>
 			</Details>
 			<Thumbnail>
-				<img src={dev} alt="I’m John and I’m a Backend & Devops engineer!" />
+				<img src={dev} alt="I’m Kenny and I’m a Backend & Devops engineer!" />
 			</Thumbnail>
 		</IntroWrapper>
 	</Wrapper>

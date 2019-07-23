@@ -4991,9 +4991,9 @@ fastparse@^1.1.1:
   resolved "https://registry.yarnpkg.com/fastparse/-/fastparse-1.1.2.tgz#91728c5a5942eced8531283c79441ee4122c35a9"
   integrity sha512-483XLLxTVIwWK3QTrMGRqUfUpoOs/0hbQrl2oz4J0pAcm3A3bu84wxTFqGqkJzewCLdME38xJLJAxBABfQT8sQ==
 
-"favicons-webpack-plugin@git+https://github.com/Creatiwity/favicons-webpack-plugin.git#0872de414061baaad0a2853c77ae75bc38b8bbbf":
+"favicons-webpack-plugin@https://github.com/Creatiwity/favicons-webpack-plugin.git#0872de414061baaad0a2853c77ae75bc38b8bbbf":
   version "0.0.9"
-  resolved "git+https://github.com/Creatiwity/favicons-webpack-plugin.git#0872de414061baaad0a2853c77ae75bc38b8bbbf"
+  resolved "https://github.com/Creatiwity/favicons-webpack-plugin.git#0872de414061baaad0a2853c77ae75bc38b8bbbf"
   dependencies:
     core-js "^2.5.7"
     favicons "^5.1.1"
@@ -11488,6 +11488,11 @@ table@^5.2.3:
     lodash "^4.17.14"
     slice-ansi "^2.1.0"
     string-width "^3.0.0"
+
+tachyons@^4.11.1:
+  version "4.11.1"
+  resolved "https://registry.yarnpkg.com/tachyons/-/tachyons-4.11.1.tgz#4e3666e7299e47aea7d820e0580dd4dc07cf3feb"
+  integrity sha512-n5zIZ8i8kZ8vz05vX1BdvkP8b9ufsMeSRmdqTuUtz5rlNxr03nntiZMc/HTADIsPYZj/wZJDJglxV0/yvvaiZA==
 
 tapable@^1.0.0, tapable@^1.1.0:
   version "1.1.3"

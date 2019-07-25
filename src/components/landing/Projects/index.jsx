@@ -6,6 +6,9 @@ import forkIcon from 'Static/icons/fork.svg'
 import { Wrapper, Grid, Item, Content, Stats } from './styles'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 import { Button } from 'Common'
+import apps from './apps.json'
+import 'tachyons';
+
 
 export const Projects = () => {
 	const {
@@ -44,41 +47,31 @@ export const Projects = () => {
 	return (
 		<Wrapper as={Container} id="projects">
 			<h2>Personal Projects</h2>
-			<Grid>
-				{edges.map(({ node }) => (
-					<Item
+			<Grid >
+				{apps.map(({ name, description,image, demo, github }) => (
+					<Item 
 						// key={node.id}
 						// as="a"
 						// href={node.url}
 						// target="_blank"
 						// rel="noopener noreferrer"
 					>
-						<Card>
+						<Card  >
 							<Content>
-							{/* <img src={starIcon} alt="stars" /> */}
-								<h4>{node.name}</h4>
-								<p>{node.description}</p>
-								
-						{/* <div > 
-    <img src={`https://robohash.org/$test?set=set2`} alt='Ticket'></img>
-
-    <div>
-        <h2>kenny</h2>
-        <p>kebnny</p>
-    </div>
-</div> */}
+							<img src= {image} alt="stars" />
+								<h4>{name}</h4>
+								<p>{description}</p>
 							</Content>
-							<Stats>
-								<div>
+							<Stats >
+								<div >
 									{/* <img src={starIcon} alt="stars" /> */}
 									{/* <span>{node.stargazers.totalCount}</span> */}
-									<a href={node.homepageUrl} target="_blank" rel="noopener noreferrer"> Live Demo  |  | </a>
-									
-									
+									 <Button as="a" href={demo} target="_blank" rel="noopener noreferrer">Demo</Button> 
 								</div>
 								<div>
+								<Button as="a" href={github} target="_blank" rel="noopener noreferrer">Github</Button> 
 									{/* <img src={forkIcon} alt="forks" /> */}
-									<a href={node.url}>View on Github</a>
+							
 									{/* <span>{node.forkCount}</span> */}
 								</div>
 							</Stats>

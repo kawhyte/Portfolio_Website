@@ -36,7 +36,7 @@ export const Item = styled.div`
 `
 
 export const Content = styled.div`
-	padding: 1rem 0;
+	padding: .1rem 0;
 `
 
 export const Stats = styled.div`
@@ -46,7 +46,7 @@ export const Stats = styled.div`
 	div {
 		display: flex;
 		&:first-child {
-			margin-right: 0.5rem;
+			margin-right: 1.5rem;
 		}
 
 		img {

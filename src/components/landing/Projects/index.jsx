@@ -19,12 +19,14 @@ export const Projects = () => {
 			github {
 				repositoryOwner(login: "kawhyte") {
 					repositories(
-						first: 4
-						orderBy: { field: STARGAZERS, direction: DESC }
+						first: 6
+						orderBy: { field: STARGAZERS, direction: DESC}
+					
 					) {
 						edges {
 							node {
 								id
+								homepageUrl
 								name
 								url
 								description
@@ -41,45 +43,43 @@ export const Projects = () => {
 	`)
 	return (
 		<Wrapper as={Container} id="projects">
-			<h2>Projects</h2>
+			<h2>Personal Projects</h2>
 			<Grid>
 				{edges.map(({ node }) => (
 					<Item
-						key={node.id}
-						as="a"
-						href={node.url}
-						target="_blank"
-						rel="noopener noreferrer"
+						// key={node.id}
+						// as="a"
+						// href={node.url}
+						// target="_blank"
+						// rel="noopener noreferrer"
 					>
 						<Card>
 							<Content>
-								{/* <h4>{node.name}</h4>
-								<p>{node.description}</p> */}
-						<div > 
+							{/* <img src={starIcon} alt="stars" /> */}
+								<h4>{node.name}</h4>
+								<p>{node.description}</p>
+								
+						{/* <div > 
     <img src={`https://robohash.org/$test?set=set2`} alt='Ticket'></img>
 
     <div>
         <h2>kenny</h2>
         <p>kebnny</p>
     </div>
-</div>
-
-
-
-
+</div> */}
 							</Content>
 							<Stats>
 								<div>
-									<img src={starIcon} alt="stars" />
-									<span>{node.stargazers.totalCount}</span>
-
-									<Button> Test</Button>
+									{/* <img src={starIcon} alt="stars" /> */}
+									{/* <span>{node.stargazers.totalCount}</span> */}
+									<a href={node.homepageUrl} target="_blank" rel="noopener noreferrer"> Live Demo  |  | </a>
+									
 									
 								</div>
 								<div>
-								<Button> Test</Button>
-									<img src={forkIcon} alt="forks" />
-									<span>{node.forkCount}</span>
+									{/* <img src={forkIcon} alt="forks" /> */}
+									<a href={node.url}>View on Github</a>
+									{/* <span>{node.forkCount}</span> */}
 								</div>
 							</Stats>
 						</Card>

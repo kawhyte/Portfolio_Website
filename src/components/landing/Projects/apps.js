@@ -6,7 +6,6 @@ export const apps =[
     image:"www.bah.com",
     buttonlink1:"www.bah.com",
     buttonlink2:"www.bah.com"
-
 },
 {
     id:2,

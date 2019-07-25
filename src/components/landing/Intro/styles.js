@@ -28,7 +28,7 @@ export const Details = styled.div`
 	}
 
 	h1 {
-		margin-bottom: 2rem;
+		margin-bottom: 1rem;
 		font-size: 36pt;
 		color: #212121;
 
@@ -39,7 +39,7 @@ export const Details = styled.div`
 
 	h4 {
 		margin-bottom: 2.5rem;
-		font-size: 32pt;
+		font-size: 18pt;
 		font-weight: normal;
 		color: #707070;
 

@@ -37,6 +37,10 @@ export const Item = styled.div`
 
 export const Content = styled.div`
 	padding: .1rem 0;
+	img {
+		margin: 0;
+		
+	};
 `
 
 export const Stats = styled.div`

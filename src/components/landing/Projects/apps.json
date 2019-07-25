@@ -2,7 +2,7 @@
     "id":1,
     "name":"Lotto Tickets API",
     "description": "An API for the Florida Lottery Scratch-off game",
-    "image":"https://images2.imgbox.com/4e/2c/S1n82Hmt_o.png",
+    "image":"https://images2.imgbox.com/04/d0/wFOFSS3e_o.png",
     "demo":"https://lottoticketapi.herokuapp.com/api-docs/",
     "github":"https://github.com/kawhyte/Lotto-Tickets-API"
 },
@@ -10,49 +10,25 @@
     "id":2,
     "name":"Farm Data logger",
     "description": "Indoor Farming/Greenhouse Data-logger System",
-    "image":"https://images2.imgbox.com/78/f7/HKFH64MA_o.png",
-    "demo":"whttps://github.com/kawhyte/Arduino-Datalogger/blob/master/README.md",
+    "image":"https://images2.imgbox.com/4b/db/ribMAIf3_o.png",
+    "demo":"https://github.com/kawhyte/Arduino-Datalogger/blob/master/README.md",
     "github":"https://github.com/kawhyte/Arduino-Datalogger"
 },
 {
     "id":3,
-    "name":"Farm Data logger",
-    "description": "Indoor Farming/Greenhouse Data-logger System",
-    "image":"https://images2.imgbox.com/78/f7/HKFH64MA_o.png",
-    "demo":"whttps://github.com/kawhyte/Arduino-Datalogger/blob/master/README.md",
-    "github":"https://github.com/kawhyte/Arduino-Datalogger"
-},
-{
-    "id":3,
-    "name":"3rd Project",
-    "description": "It has been over one month since our last correspondence where you stated you would provide me the shipping label. Let the record show ( screenshot attached) that any delay on receipt of the laptop was due to MVE/ECL's negligence, not mine.",
-    "image":"www.bah.com",
-    "buttonlink1":"www.bah.com",
-    "buttonlink2":"www.bah.com"
+    "name":"Robot Maze Algorithm",
+    "description": "Robot navigation using multiple maze configurations.",
+    "image":"https://images2.imgbox.com/69/18/YaM3yOgS_o.png",
+    "demo":"https://github.com/kawhyte/Robot_Simple_Maze/blob/master/README.md",
+    "github":"https://github.com/kawhyte/Robot-Traversing-Maze"
 },
 {
     "id":4,
-    "name":"4th Project",
-    "description": "It has been over one month since our last correspondence where you stated you would provide me the shipping label. Let the record show ( screenshot attached) that any delay on receipt of the laptop was due to MVE/ECL's negligence, not mine.",
-    "image":"www.bah.com",
-    "buttonlink1":"www.bah.com",
-    "buttonlink2":"www.bah.com"
-},
-{
-    "id":5,
-    "name":"5th Project",
-    "description": "It has been over one month since our last correspondence where you stated you would provide me the shipping label. Let the record show ( screenshot attached) that any delay on receipt of the laptop was due to MVE/ECL's negligence, not mine.",
-    "image":"www.bah.com",
-    "buttonlink1":"www.bah.com",
-    "buttonlink2":"www.bah.com"
-},
-{
-    "id":6,
-    "name":"6th Project",
-    "description": "It has been over one month since our last correspondence where you stated you would provide me the shipping label. Let the record show ( screenshot attached) that any delay on receipt of the laptop was due to MVE/ECL's negligence, not mine.",
-    "image":"www.bah.com",
-    "buttonlink1":"www.bah.com",
-    "buttonlink2":"www.bah.com"
+    "name":"Mario Bros",
+    "description": "History of Mario",
+    "image":"https://images2.imgbox.com/4c/c4/DTxYbZcC_o.png",
+    "demo":" https://kawhyte.github.io/Mario-Bros-HTML5-CSS3/",
+    "github":"https://github.com/kawhyte/Mario-Bros-HTML5-CSS3"
 }
 
 ]

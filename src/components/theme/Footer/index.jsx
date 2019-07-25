@@ -9,10 +9,8 @@ export const Footer = () => (
 			<Details>
 				<h2>Kenny Whyte</h2>
 				<span>
-					© All rights are reserved | {new Date().getFullYear()} | Made with{' '}
-					<span aria-label="love" role="img">
-						💖
-					</span>{' '}
+					© All rights are reserved | {new Date().getFullYear()} | Original template{' '}
+				
 					by{' '}
 					<a
 						href="https://smakosh.com/?ref=portfolio-dev"

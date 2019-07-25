@@ -13,8 +13,9 @@ export const Skills = () => (
 			<Details>
 				<h1>About</h1>
 				<p>
-				Software Engineer with strong problem-solving skills and a drive to innovate. 
-				Passionate about technology and delivering quality software that is easy to use, maintainable and extensible.
+				Currently, I am focused on developing web applications with C#, .NET Core, Node.js, and React. 
+				I am a Software Developer by day and an amateur astronomer by night.
+				I have a background in Graphic Design which is used to significantly improve the customer's experience. 
 				</p>
 				<Button as={AnchorLink} href="#contact">
 					Check out my blog posts

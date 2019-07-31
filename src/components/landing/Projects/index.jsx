@@ -8,6 +8,7 @@ import AnchorLink from 'react-anchor-link-smooth-scroll'
 import { Button } from 'Common'
 import apps from './apps.json'
 import 'tachyons';
+import { enabled } from 'ansi-colors';
 
 
 export const Projects = () => {
@@ -58,7 +59,7 @@ export const Projects = () => {
 					>
 						<Card  >
 							<Content>
-							<img src= {image} alt="stars" />
+							<img src= {image} alt="main_photo" />
 								<h4>{name}</h4>
 								<p>{description}</p>
 							</Content>
@@ -66,7 +67,8 @@ export const Projects = () => {
 								<div >
 									{/* <img src={starIcon} alt="stars" /> */}
 									{/* <span>{node.stargazers.totalCount}</span> */}
-									 <Button as="a" href={demo} target="_blank" rel="noopener noreferrer">Demo</Button> 
+									<Button as="a" href={demo} target="_blank" rel="noopener noreferrer">Demo</Button> 
+									
 								</div>
 								<div>
 								<Button as="a" href={github} target="_blank" rel="noopener noreferrer">Github</Button> 

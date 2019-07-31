@@ -38,8 +38,9 @@ export const Item = styled.div`
 export const Content = styled.div`
 	padding: .1rem 0;
 	img {
-		margin: 0;
-		
+		margin: 10;
+		max-width:100%; 
+		max-height:100%; 
 	};
 `
 

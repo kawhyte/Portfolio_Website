@@ -4,8 +4,19 @@
     "description": "An API for the Florida Lottery Scratch-off game",
     "image":"https://images2.imgbox.com/04/d0/wFOFSS3e_o.png",
     "demo":"https://lottoticketapi.herokuapp.com/api-docs/",
-    "github":"https://github.com/kawhyte/Lotto-Tickets-API"
+    "github":"https://github.com/kawhyte/Lotto-Tickets-API",
+    "demoButtonSatus": "true"
 },
+{
+    "id":5,
+    "name":"Vehicle Restoration",
+    "description": "A Vehicle Restoration Marketplace",
+    "image":"https://media.giphy.com/media/KezjNY3J5t5zFIs6Gy/giphy.gif",
+    "demo":"https://lottoticketapi.herokuapp.com/api-docs/",
+    "github":"https://github.com/kawhyte/Lotto-Tickets-API",
+    "demoButtonSatus": "true"
+},
+
 {
     "id":2,
     "name":"Farm Data logger",
@@ -14,6 +25,7 @@
     "demo":"https://github.com/kawhyte/Arduino-Datalogger/blob/master/README.md",
     "github":"https://github.com/kawhyte/Arduino-Datalogger"
 },
+
 {
     "id":3,
     "name":"Robot Maze Algorithm",
@@ -22,6 +34,7 @@
     "demo":"https://github.com/kawhyte/Robot_Simple_Maze/blob/master/README.md",
     "github":"https://github.com/kawhyte/Robot-Traversing-Maze"
 },
+
 {
     "id":4,
     "name":"Mario Bros",

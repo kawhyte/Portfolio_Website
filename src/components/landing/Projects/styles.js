@@ -42,6 +42,10 @@ export const Content = styled.div`
 		max-width:100%; 
 		max-height:100%; 
 	};
+	.highlight {
+		background-color:#EFEEFF;
+		padding:2px;
+	  }
 `
 
 export const Stats = styled.div`

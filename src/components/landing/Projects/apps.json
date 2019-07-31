@@ -2,10 +2,10 @@
     "id":1,
     "name":"Lotto Tickets API",
     "description": "An API for the Florida Lottery Scratch-off game",
-    "image":"https://images2.imgbox.com/04/d0/wFOFSS3e_o.png",
+    "image":"https://images2.imgbox.com/15/c5/QfAie47c_o.jpg",
     "demo":"https://lottoticketapi.herokuapp.com/api-docs/",
     "github":"https://github.com/kawhyte/Lotto-Tickets-API",
-    "demoButtonSatus": "true"
+    "technology": "Node.js, Mongoose, Express, Swagger, Heroku"
 },
 {
     "id":5,
@@ -14,16 +14,17 @@
     "image":"https://media.giphy.com/media/KezjNY3J5t5zFIs6Gy/giphy.gif",
     "demo":"https://lottoticketapi.herokuapp.com/api-docs/",
     "github":"https://github.com/kawhyte/Lotto-Tickets-API",
-    "demoButtonSatus": "true"
+    "technology": "Angular 4, Angular Material, Typescript, ASP.NET Core C#, Entity Framework Core"
 },
 
 {
     "id":2,
     "name":"Farm Data logger",
-    "description": "Indoor Farming/Greenhouse Data-logger System",
-    "image":"https://images2.imgbox.com/4b/db/ribMAIf3_o.png",
+    "description": "Indoor Farming/Greenhouse Data-logger System.",
+    "image":"https://images2.imgbox.com/5d/a1/oRQ8Yl6j_o.jpg",
     "demo":"https://github.com/kawhyte/Arduino-Datalogger/blob/master/README.md",
-    "github":"https://github.com/kawhyte/Arduino-Datalogger"
+    "github":"https://github.com/kawhyte/Arduino-Datalogger",
+    "technology": "Arduino Microprocessor, Radio-frequency identification (RFID), SQL, Plot.ly"
 },
 
 {
@@ -32,7 +33,8 @@
     "description": "Robot navigation using multiple maze configurations.",
     "image":"https://images2.imgbox.com/69/18/YaM3yOgS_o.png",
     "demo":"https://github.com/kawhyte/Robot_Simple_Maze/blob/master/README.md",
-    "github":"https://github.com/kawhyte/Robot-Traversing-Maze"
+    "github":"https://github.com/kawhyte/Robot-Traversing-Maze",
+    "technology": "Coppelia Robotics V-REP"
 },
 
 {
@@ -41,7 +43,8 @@
     "description": "History of Mario",
     "image":"https://images2.imgbox.com/4c/c4/DTxYbZcC_o.png",
     "demo":" https://kawhyte.github.io/Mario-Bros-HTML5-CSS3/",
-    "github":"https://github.com/kawhyte/Mario-Bros-HTML5-CSS3"
+    "github":"https://github.com/kawhyte/Mario-Bros-HTML5-CSS3",
+    "technology": "HTML5, CSS, JQuery"
 }
 
 ]

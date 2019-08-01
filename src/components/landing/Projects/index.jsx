@@ -72,7 +72,7 @@ export const Projects = () => {
 									
 								</div>
 								<div>
-								<Button as="a" href={github} target="_blank" rel="noopener noreferrer">Github</Button> 
+								<Button as="a" href={github} target="_blank" rel="noopener noreferrer" value ="show">Github</Button> 
 									{/* <img src={forkIcon} alt="forks" /> */}
 							
 									{/* <span>{node.forkCount}</span> */}

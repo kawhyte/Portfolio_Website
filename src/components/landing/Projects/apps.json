@@ -31,10 +31,20 @@
     "id":3,
     "name":"Robot Maze Algorithm",
     "description": "Robot navigation using multiple maze configurations.",
-    "image":"https://images2.imgbox.com/69/18/YaM3yOgS_o.png",
+    "image":"https://images2.imgbox.com/d2/07/RfEmbrUc_o.jpg",
     "demo":"https://github.com/kawhyte/Robot_Simple_Maze/blob/master/README.md",
     "github":"https://github.com/kawhyte/Robot-Traversing-Maze",
     "technology": "Coppelia Robotics V-REP"
+},
+
+{
+    "id":6,
+    "name":"Video Game Decor",
+    "description": "Ecommerce website  - www.thepixelprince.com",
+    "image":"https://images2.imgbox.com/88/77/To7kOxr0_o.jpg",
+    "demo":"https://www.thepixelprince.com",
+    "github":" https://www.thepixelprince.com",
+    "technology": "WordPress, PHP"
 },
 
 {

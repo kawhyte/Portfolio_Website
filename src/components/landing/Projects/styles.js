@@ -69,5 +69,9 @@ export const Stats = styled.div`
 			color: #000;
 			margin-left: 0.5rem;
 		}
+
+		input[value="show"]{
+			display:none;
+			}
 	}
 `

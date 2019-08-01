@@ -14,7 +14,16 @@
     "image":"https://media.giphy.com/media/KezjNY3J5t5zFIs6Gy/giphy.gif",
     "demo":"https://lottoticketapi.herokuapp.com/api-docs/",
     "github":"https://github.com/kawhyte/Lotto-Tickets-API",
-    "technology": "Angular 4, Angular Material, Typescript, ASP.NET Core C#, Entity Framework Core"
+    "technology": "Angular 4, Angular Material, Typescript, .NET Core/C#"
+},
+{
+    "id":6,
+    "name":"Video Game Decor",
+    "description": "Ecommerce website  - www.thepixelprince.com",
+    "image":"https://images2.imgbox.com/88/77/To7kOxr0_o.jpg",
+    "demo":"https://www.thepixelprince.com",
+    "github":" https://www.thepixelprince.com",
+    "technology": "WordPress, PHP, Stripe, Photoshop "
 },
 
 {
@@ -37,15 +46,7 @@
     "technology": "Coppelia Robotics V-REP"
 },
 
-{
-    "id":6,
-    "name":"Video Game Decor",
-    "description": "Ecommerce website  - www.thepixelprince.com",
-    "image":"https://images2.imgbox.com/88/77/To7kOxr0_o.jpg",
-    "demo":"https://www.thepixelprince.com",
-    "github":" https://www.thepixelprince.com",
-    "technology": "WordPress, PHP"
-},
+
 
 {
     "id":4,

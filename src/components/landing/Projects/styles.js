@@ -28,10 +28,12 @@ export const Item = styled.div`
 
 	h4 {
 		color: #212121;
+		
 	}
 
 	p {
 		color: #707070;
+		line-height: 25px;
 	}
 `
 
@@ -44,8 +46,9 @@ export const Content = styled.div`
 	};
 	.highlight {
 		background-color:#EFEEFF;
-		padding:2px;
+		padding:4px;
 	  }
+	
 `
 
 export const Stats = styled.div`

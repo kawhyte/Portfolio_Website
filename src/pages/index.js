@@ -9,7 +9,7 @@ export default () => (
 		<SEO />
 		<Intro />
 		<Projects/>
-		<Skills />
+		{/* <Skills /> */}
 		<Contact />
 	</Layout>
 )

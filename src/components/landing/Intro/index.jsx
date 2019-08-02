@@ -12,7 +12,7 @@ export const Intro = () => (
 			<Details>
 				<h1>Hi there, I’m Kenny!</h1>
 				<h4>I spend my time coding, travelling and stargazing. I also write about lessons I've learned on my Software Developer journey</h4>
-				{ <Button as={AnchorLink} href="https://angry-saha-b0191c.netlify.com/">
+				{ <Button as="a" target="_blank" rel="noopener noreferrer"  href="https://angry-saha-b0191c.netlify.com/">
 					Check out my blog
 				</Button> }
 			</Details>

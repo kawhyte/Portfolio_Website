@@ -20,8 +20,8 @@
 },
 {
     "id":3,
-    "name":"Video Game Decor",
-    "description": "Ecommerce website  - www.thepixelprince.com",
+    "name":"E-commerce website",
+    "description": "Video game website  - www.thepixelprince.com",
     "image":"https://images2.imgbox.com/88/77/To7kOxr0_o.jpg",
     "demo":"https://www.thepixelprince.com",
     "github":" https://www.thepixelprince.com",
@@ -32,7 +32,7 @@
 {
     "id":4,
     "name":"Farm Data logger",
-    "description": "Indoor Farming/Greenhouse Data-logger System.",
+    "description": "Indoor farming/greenhouse data-logger system.",
     "image":"https://images2.imgbox.com/5d/a1/oRQ8Yl6j_o.jpg",
     "demo":"https://github.com/kawhyte/Arduino-Datalogger/blob/master/README.md",
     "github":"https://github.com/kawhyte/Arduino-Datalogger",
@@ -52,8 +52,8 @@
 }, 
 {
     "id":6,
-    "name":"React Lotto Look-up",
-    "description": "A reponsiveLotto Look-up page",
+    "name":"Lotto Look-up",
+    "description": "A reponsive react look-up page",
     "image":"https://images2.imgbox.com/ac/cb/UBmfJuyb_o.jpg",
     "demo":"https://unruffled-galileo-e49c71.netlify.com",
     "github":"https://github.com/kawhyte/React-Lotto-App",

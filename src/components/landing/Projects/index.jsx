@@ -68,6 +68,7 @@ export const Projects = () => {
 								
 									{/* <img src={starIcon} alt="stars" /> */}
 									{/* <span>{node.stargazers.totalCount}</span> */}
+									
 									<Button as="a" href={demo} target="_blank" rel="noopener noreferrer">Demo</Button> 
 									
 								</div>

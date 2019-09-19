@@ -5,7 +5,8 @@
     "image":"https://images2.imgbox.com/15/c5/QfAie47c_o.jpg",
     "demo":"https://lottoticketapi.herokuapp.com/api-docs/",
     "github":"https://github.com/kawhyte/Lotto-Tickets-API",
-    "technology": "Node.js, Mongoose, Express, Swagger, Heroku"
+    "technology": "Node.js, Mongoose, Express, Swagger, Heroku",
+    "showDemo": true
 },
 {
     "id":5,
@@ -14,7 +15,18 @@
     "image":"https://media.giphy.com/media/KezjNY3J5t5zFIs6Gy/giphy.gif",
     "demo":"https://vehicle-restoration.azurewebsites.net/",
     "github":"https://github.com/kawhyte/Vehicle-Restoration-Marketplace-App",
-    "technology": "Angular 4, Angular Material, Typescript, .NET Core/C#"
+    "technology": "Angular 4, Angular Material, Typescript, .NET Core/C#",
+    "showDemo": true
+},
+{
+    "id":6,
+    "name":"React Lotto Look-up",
+    "description": "A Lotto Look-up page",
+    "image":"https://images2.imgbox.com/ac/cb/UBmfJuyb_o.jpg",
+    "demo":"https://unruffled-galileo-e49c71.netlify.com",
+    "github":"https://github.com/kawhyte/React-Lotto-App",
+    "technology": "React, Netlify",
+    "showDemo": true
 },
 {
     "id":6,
@@ -23,7 +35,8 @@
     "image":"https://images2.imgbox.com/88/77/To7kOxr0_o.jpg",
     "demo":"https://www.thepixelprince.com",
     "github":" https://www.thepixelprince.com",
-    "technology": "WordPress, PHP, Stripe, Photoshop "
+    "technology": "WordPress, PHP, Stripe, Photoshop ",
+    "showDemo": true
 },
 
 {
@@ -33,7 +46,8 @@
     "image":"https://images2.imgbox.com/5d/a1/oRQ8Yl6j_o.jpg",
     "demo":"https://github.com/kawhyte/Arduino-Datalogger/blob/master/README.md",
     "github":"https://github.com/kawhyte/Arduino-Datalogger",
-    "technology": "Arduino Microprocessor, Radio-frequency identification (RFID), SQL, Plot.ly"
+    "technology": "Arduino Microprocessor, Radio-frequency identification (RFID), SQL, Plot.ly",
+    "showDemo": true
 },
 
 {
@@ -43,7 +57,8 @@
     "image":"https://images2.imgbox.com/d2/07/RfEmbrUc_o.jpg",
     "demo":"https://github.com/kawhyte/Robot_Simple_Maze/blob/master/README.md",
     "github":"https://github.com/kawhyte/Robot-Traversing-Maze",
-    "technology": "Coppelia Robotics V-REP"
+    "technology": "Coppelia Robotics V-REP",
+    "showDemo": false
 }
 
 ]

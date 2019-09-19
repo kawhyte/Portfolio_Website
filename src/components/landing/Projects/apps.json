@@ -53,7 +53,7 @@
 {
     "id":6,
     "name":"Lotto Look-up",
-    "description": "A reponsive react look-up page",
+    "description": "A reponsive look-up page (with React)",
     "image":"https://images2.imgbox.com/ac/cb/UBmfJuyb_o.jpg",
     "demo":"https://unruffled-galileo-e49c71.netlify.com",
     "github":"https://github.com/kawhyte/React-Lotto-App",

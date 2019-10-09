@@ -6,7 +6,7 @@ module.exports = {
 	legalName: 'Kenny Whyte',
 	defaultDescription: 'Hi there, I’m Kenny!I spend my time coding, travelling and stargazing.',
 	socialLinks: {
-		twitter: '',
+		twitter: 'https://twitter.com/KennyWhyte8',
 		github: 'https://github.com/kawhyte',
 		linkedin: 'https://www.linkedin.com/in/kawhyte/',
 		instagram: '',

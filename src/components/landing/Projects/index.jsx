@@ -9,9 +9,20 @@ import { Button } from 'Common'
 import apps from './apps.json'
 import 'tachyons';
 import { enabled } from 'ansi-colors';
+import styled, { css } from 'styled-components';
 
 
 export const Projects = () => {
+	const StyledButton = styled(Button)`
+	font-weight: normal;
+	${props =>
+	  props.disabled
+		? css`color: #666666; background-color: #cccccc; border: 1px solid #999999; cursor:no-drop ;`
+		: css`color: white;`
+	};
+  `;
+
+
 	const {
 		github: {
 			repositoryOwner: {
@@ -49,7 +60,7 @@ export const Projects = () => {
 		<Wrapper as={Container} id="projects">
 			<h2>Personal Projects</h2>
 			<Grid >
-				{apps.map(({ name, description,image, demo, github, technology }) => (
+				{apps.map(({ name, description,image, demo, github, technology, disableDemo, linkStatus }) => (
 					<Item 
 						// key={node.id}
 						// as="a"
@@ -69,11 +80,11 @@ export const Projects = () => {
 									{/* <img src={starIcon} alt="stars" /> */}
 									{/* <span>{node.stargazers.totalCount}</span> */}
 									
-									<Button as="a" href={demo} target="_blank" rel="noopener noreferrer">Demo</Button> 
+									<Button as="a" href={demo} target="_blank" rel="noopener noreferrer" >Demo</Button> 
 									
 								</div>
 								<div>
-								<Button as="a" href={github} target="_blank" rel="noopener noreferrer" value ="show">Github</Button> 
+								<StyledButton disabled={disableDemo} as={linkStatus} href={github} target="_blank" rel="noopener noreferrer"   >Github</StyledButton> 
 									{/* <img src={forkIcon} alt="forks" /> */}
 							
 									{/* <span>{node.forkCount}</span> */}

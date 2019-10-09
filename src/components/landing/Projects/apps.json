@@ -6,7 +6,8 @@
     "demo":"https://lottoticketapi.herokuapp.com/api-docs/",
     "github":"https://github.com/kawhyte/Lotto-Tickets-API",
     "technology": "Node.js, Mongoose, Express, Swagger, Heroku",
-    "showDemo": true
+    "disableDemo": false,
+    "linkStatus": "a"
 },
 {
     "id":2,
@@ -16,7 +17,8 @@
     "demo":"https://vehicle-restoration.azurewebsites.net/",
     "github":"https://github.com/kawhyte/Vehicle-Restoration-Marketplace-App",
     "technology": "Angular 4, Angular Material, Typescript, .NET Core/C#",
-    "showDemo": true
+    "disableDemo": false,
+    "linkStatus": "a"
 },
 {
     "id":3,
@@ -26,7 +28,8 @@
     "demo":"https://www.thepixelprince.com",
     "github":" https://www.thepixelprince.com",
     "technology": "WordPress, PHP, Stripe, Photoshop",
-    "showDemo": true
+    "disableDemo": true,
+    "linkStatus": ""
 },
 
 {
@@ -37,7 +40,8 @@
     "demo":"https://github.com/kawhyte/Arduino-Datalogger/blob/master/README.md",
     "github":"https://github.com/kawhyte/Arduino-Datalogger",
     "technology": "Arduino, RFID, SQL, Plot.ly",
-    "showDemo": true
+    "disableDemo": true,
+    "linkStatus": ""
 },
 
 {
@@ -48,7 +52,8 @@
     "demo":"https://github.com/kawhyte/Robot_Simple_Maze/blob/master/README.md",
     "github":"https://github.com/kawhyte/Robot-Traversing-Maze",
     "technology": "Virtual Robot simulator",
-    "showDemo": false
+    "disableDemo": true,
+    "linkStatus": ""
 }, 
 {
     "id":6,
@@ -58,7 +63,8 @@
     "demo":"https://unruffled-galileo-e49c71.netlify.com",
     "github":"https://github.com/kawhyte/React-Lotto-App",
     "technology": "React, Netlify",
-    "showDemo": true
+    "disableDemo": false,
+    "linkStatus": "a"
 }
 
 ]

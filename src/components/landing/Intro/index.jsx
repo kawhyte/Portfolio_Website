@@ -18,7 +18,7 @@ export const Intro = () => (
 				</Button> } */}
 			</Details>
 			<Thumbnail>
-				<img src={dev} alt="I spend my time coding, travelling and stargazing." />
+				<img src={dev} alt="Software Engineer | Observational Astronomer | Nintendo Enthusiast" />
 			</Thumbnail>
 		</IntroWrapper>
 	</Wrapper>

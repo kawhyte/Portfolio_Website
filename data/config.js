@@ -4,9 +4,9 @@ module.exports = {
 	author: 'Kenny Whyte',
 	url: 'https://www.kennywhyte.com',
 	legalName: 'Kenny Whyte',
-	defaultDescription: 'Hi there, I’m Kenny!I spend my time coding, travelling and stargazing.',
+	defaultDescription: 'Hi there, I’m Kenny!',
 	socialLinks: {
-		twitter: 'https://twitter.com/KennyWhyte8',
+		twitter: 'https://twitter.com/IAmKennyWhyte',
 		github: 'https://github.com/kawhyte',
 		linkedin: 'https://www.linkedin.com/in/kawhyte/',
 		instagram: '',

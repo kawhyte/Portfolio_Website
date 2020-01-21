@@ -21,6 +21,28 @@
     "linkStatus": "a"
 },
 {
+    "id":7,
+    "name":"City Weather",
+    "description": "Look up the weather anywhere in the world",
+    "image":"https://images2.imgbox.com/c9/7c/5Q8plqI5_o.jpg",
+    "demo":"https://the-city-weather-app.herokuapp.com/",
+    "github":"https://github.com/kawhyte/City-Weather",
+    "technology": "Google and Darksky API,  Javascript, HTML, CSS, Heroku",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+{
+    "id":6,
+    "name":"Lotto Look-up",
+    "description": "A responsive look-up page (with React)",
+    "image":"https://images2.imgbox.com/ac/cb/UBmfJuyb_o.jpg",
+    "demo":"https://unruffled-galileo-e49c71.netlify.com",
+    "github":"https://github.com/kawhyte/React-Lotto-App",
+    "technology": "React, Netlify",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+{
     "id":3,
     "name":"E-commerce website",
     "description": "Video game website - www.thepixelprince.com",
@@ -54,17 +76,6 @@
     "technology": "Virtual Robot simulator",
     "disableDemo": true,
     "linkStatus": ""
-}, 
-{
-    "id":6,
-    "name":"Lotto Look-up",
-    "description": "A responsive look-up page (with React)",
-    "image":"https://images2.imgbox.com/ac/cb/UBmfJuyb_o.jpg",
-    "demo":"https://unruffled-galileo-e49c71.netlify.com",
-    "github":"https://github.com/kawhyte/React-Lotto-App",
-    "technology": "React, Netlify",
-    "disableDemo": false,
-    "linkStatus": "a"
 }
 
 ]

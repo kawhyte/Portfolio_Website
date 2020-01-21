@@ -14,7 +14,7 @@ export const Intro = () => (
 				{/* <h4>I spend my time coding, travelling and stargazing. I also write about lessons I've learned on my Software Developer journey</h4> */}
 				<h4>Software Engineer | Observational Astronomer | Nintendo Enthusiast</h4>
 				 { <Button as="a" target="_blank" rel="noopener noreferrer"  href="https://dev.to/kawhyte">
-					Check out my Blog
+					Check out my Dev.to posts 
 				</Button> } 
 			</Details>
 			<Thumbnail>

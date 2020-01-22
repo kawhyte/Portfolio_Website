@@ -1,0 +1,83 @@
+[{
+    "id":1,
+    "name":"Lotto Tickets API",
+    "description": "An API for the Florida Lottery Scratch-off game",
+    "image":"https://images2.imgbox.com/15/c5/QfAie47c_o.jpg",
+    "demo":"https://lottoticketapi.herokuapp.com/api-docs/",
+    "github":"https://github.com/kawhyte/Lotto-Tickets-API",
+    "technology": "Node.js, Mongoose, Express, Swagger, Heroku",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+{
+    "id":2,
+    "name":"Vehicle Restoration",
+    "description": "A Vehicle Restoration Marketplace",
+    "image":"https://media.giphy.com/media/KezjNY3J5t5zFIs6Gy/giphy.gif",
+    "demo":"https://vehicle-restoration.azurewebsites.net/",
+    "github":"https://github.com/kawhyte/Vehicle-Restoration-Marketplace-App",
+    "technology": "Angular 4, Angular Material, Typescript, .NET Core/C#",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+{
+    "id":7,
+    "name":"City Weather",
+    "description": "Look up the weather anywhere in the world",
+    "image":"https://images2.imgbox.com/c9/7c/5Q8plqI5_o.jpg",
+    "demo":"https://the-city-weather-app.herokuapp.com/",
+    "github":"https://github.com/kawhyte/City-Weather",
+    "technology": "Google and Darksky API,  Javascript, HTML, CSS, Heroku",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+{
+    "id":6,
+    "name":"Lotto Look-up",
+    "description": "A responsive look-up page (with React)",
+    "image":"https://images2.imgbox.com/ac/cb/UBmfJuyb_o.jpg",
+    "demo":"https://unruffled-galileo-e49c71.netlify.com",
+    "github":"https://github.com/kawhyte/React-Lotto-App",
+    "technology": "React, Netlify",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+{
+    "id":3,
+    "name":"E-commerce website",
+    "description": "Video game website - www.thepixelprince.com",
+    "image":"https://images2.imgbox.com/88/77/To7kOxr0_o.jpg",
+    "demo":"https://www.thepixelprince.com",
+    "github":" https://www.thepixelprince.com",
+    "technology": "WordPress, PHP, Stripe, Photoshop",
+    "disableDemo": true,
+    "linkStatus": ""
+},
+
+{
+    "id":4,
+    "name":"Farm Data logger",
+    "description": "Indoor farming/greenhouse data-logger system.",
+    "image":"https://images2.imgbox.com/5d/a1/oRQ8Yl6j_o.jpg",
+    "demo":"https://github.com/kawhyte/Arduino-Datalogger/blob/master/README.md",
+    "github":"https://github.com/kawhyte/Arduino-Datalogger",
+    "technology": "Arduino, RFID, SQL, Plot.ly",
+    "disableDemo": true,
+    "linkStatus": ""
+},
+
+{
+    "id":5,
+    "name":"Robot Maze Algorithm",
+    "description": "Robot navigation using multiple maze configurations.",
+    "image":"https://images2.imgbox.com/d2/07/RfEmbrUc_o.jpg",
+    "demo":"https://github.com/kawhyte/Robot_Simple_Maze/blob/master/README.md",
+    "github":"https://github.com/kawhyte/Robot-Traversing-Maze",
+    "technology": "Virtual Robot simulator",
+    "disableDemo": true,
+    "linkStatus": ""
+}
+
+]
+
+

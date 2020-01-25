@@ -5,8 +5,9 @@ import { Wrapper } from './styles'
 const NavbarLinks = ({ desktop }) => (
   <Wrapper desktop={desktop}>
     {/* <AnchorLink href="https://dev.to/kawhyte">Blog</AnchorLink> */}
-    <AnchorLink href="#projects">Personal Projects</AnchorLink>
-    {/* <a href="https://dev.to/kawhyte" className="href">Mini Projects</a> */}
+    {/* <AnchorLink href="#projects">Personal Projects</AnchorLink> */}
+    {/* <a href="https://dev.to/kawhyte" className="href">#100DaysOfCode</a> */}
+    <a href="https://dev.to/kawhyte" className="href">Dev.to Posts</a>
     <a href="https://codepen.io/kawhyte" className="href">Code Pen</a>
     <AnchorLink href="#contact">Contact</AnchorLink>
   </Wrapper>

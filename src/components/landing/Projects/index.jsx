@@ -60,8 +60,8 @@ export const Projects = () => {
 		<Wrapper as={Container} id="projects">
 			<h2>Personal Projects</h2>
 			<Grid >
-				{apps.map(({ name, description,image, demo, github, technology, disableDemo, linkStatus }) => (
-					<Item 
+				{apps.map(({ name, description,image, demo, github, technology, disableDemo, linkStatus }, index) => (
+					<Item  key={index}
 						// key={node.id}
 						// as="a"
 						// href={node.url}
@@ -71,8 +71,8 @@ export const Projects = () => {
 						<Card  >
 							<Content>
 							<img src= {image} alt="main_photo" />
-								<p><span class="highlight">{name}</span>&nbsp;- {description}</p>
-								<p><span class="highlight">Technology Used:</span>&nbsp;{technology}</p>
+								<p><span className="highlight">{name}</span>&nbsp;- {description}</p>
+								<p><span className="highlight">Technology Used:</span>&nbsp;{technology}</p>
 							</Content>
 							<Stats >
 								<div >

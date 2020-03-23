@@ -61,7 +61,7 @@
     "image":"https://res.cloudinary.com/babyhulk/image/upload/v1584935193/project/VGOTY.jpg",
     "demo":"https://nifty-yalow-aee91c.netlify.com",
     "github":"https://github.com/kawhyte/VideoGameOfTheYear",
-    "technology": "Netlify, Javascript, HTML, CSS, Tachyon",
+    "technology": "Rawg.io game API,  Netlify, Javascript, HTML, CSS, Tachyon",
     "disableDemo": false,
     "linkStatus": "a"
 },

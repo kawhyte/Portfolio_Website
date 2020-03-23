@@ -70,7 +70,7 @@ export const Projects = () => {
 					>
 						<Card  >
 							<Content>
-							<img src= {image} alt="main_photo" />
+							<img src= {image} alt={name} />
 								<p><span className="highlight">Description:</span>&nbsp; {description}</p>
 								<p><span className="highlight">Technology Used:</span>&nbsp;{technology}</p>
 							</Content>

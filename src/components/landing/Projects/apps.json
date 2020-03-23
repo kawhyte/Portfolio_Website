@@ -1,5 +1,16 @@
 [{
     "id":1,
+    "name":"Description: ",
+    "description": "A familiy paid time leave bill legislation tracker",
+    "image":"https://res.cloudinary.com/babyhulk/image/upload/v1584934443/project/paid_leave.jpg",
+    "demo":"https://paidleavetracker.herokuapp.com/",
+    "github":"https://github.com/kawhyte/PaidLeaveTracker",
+    "technology": "Node.js, Openstate API, Firebase, Express, Heroku",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+{
+    "id":1,
     "name":"Lotto Tickets API",
     "description": "An API for the Florida Lottery Scratch-off game",
     "image":"https://images2.imgbox.com/15/c5/QfAie47c_o.jpg",
@@ -9,12 +20,13 @@
     "disableDemo": false,
     "linkStatus": "a"
 },
+
 {
     "id":2,
     "name":"Vehicle Restoration",
     "description": "A Vehicle Restoration Marketplace",
     "image":"https://media.giphy.com/media/KezjNY3J5t5zFIs6Gy/giphy.gif",
-    "demo":"https://vehicle-restoration.azurewebsites.net/",
+    "demo":"https://github.com/kawhyte/Vehicle-Restoration-Marketplace-App",
     "github":"https://github.com/kawhyte/Vehicle-Restoration-Marketplace-App",
     "technology": "Angular 4, Angular Material, Typescript, .NET Core/C#",
     "disableDemo": false,
@@ -39,6 +51,17 @@
     "demo":"https://unruffled-galileo-e49c71.netlify.com",
     "github":"https://github.com/kawhyte/React-Lotto-App",
     "technology": "React, Netlify",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+{
+    "id":2,
+    "name":"Video Game of the year",
+    "description": "The best Video Games for each console",
+    "image":"https://res.cloudinary.com/babyhulk/image/upload/v1584935193/project/VGOTY.jpg",
+    "demo":"https://nifty-yalow-aee91c.netlify.com",
+    "github":"https://github.com/kawhyte/VideoGameOfTheYear",
+    "technology": "Netlify, Javascript, HTML, CSS, Tachyon",
     "disableDemo": false,
     "linkStatus": "a"
 },

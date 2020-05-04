@@ -1,4 +1,19 @@
-[{
+[
+    
+    
+    {
+    "id":1,
+    "name":"Description: ",
+    "title": "Paid Leave Tracker V2 - Improved Scalability and Speed",
+    "description": "Paid Leave Tracker (90% speed improvement)",
+    "image":"https://res.cloudinary.com/babyhulk/image/upload/w_381,h_381,f_auto/v1588620339/project/paid_leaveV2.png",
+    "demo":"https://festive-raman-38b110.netlify.app/",
+    "github":"https://github.com/kawhyte/PaidLeaveTrackerGatsby",
+    "technology": "React/Gatsby, Openstate Graphql API, Automated with IFTTT, CI/CD with Netlify & Gatsby Cloud",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+    {
     "id":1,
     "name":"Description: ",
     "title": "Paid Leave Tracker V1",
@@ -6,7 +21,7 @@
     "image":"https://res.cloudinary.com/babyhulk/image/upload/w_381,h_381,f_auto/v1584934443/project/paid_leave.jpg",
     "demo":"https://paidleavetracker.herokuapp.com/",
     "github":"https://github.com/kawhyte/PaidLeaveTracker",
-    "technology": "Node.js, Openstate Rest API, Firebase, Express, Heroku",
+    "technology": "HTML, Node.js, Express, Cron, Openstate Rest API, Firebase DB, Heroku",
     "disableDemo": false,
     "linkStatus": "a"
 },

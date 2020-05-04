@@ -54,6 +54,7 @@ export const Content = styled.div`
 export const Stats = styled.div`
 	display: flex;
 	align-items: center;
+	justify-content: center;
 
 	div {
 		display: flex;

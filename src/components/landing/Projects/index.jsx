@@ -60,7 +60,7 @@ export const Projects = () => {
 		<Wrapper as={Container} id="projects">
 			<h2>Personal Projects</h2>
 			<Grid >
-				{apps.map(({ name, description,image, demo, github, technology, disableDemo, linkStatus }, index) => (
+				{apps.map(({ name, description,image, demo, github, technology, disableDemo, linkStatus, title }, index) => (
 					<Item  key={index}
 						// key={node.id}
 						// as="a"
@@ -70,6 +70,8 @@ export const Projects = () => {
 					>
 						<Card  >
 							<Content>
+							{/* <h1 className="f4 gray mv0 pv2 ph0">{title}</h1> */}
+							<h3><span className="black f4 highlight">{title}</span>&nbsp; </h3>
 							<img src= {image} alt={name} />
 								<p><span className="highlight">Description:</span>&nbsp; {description}</p>
 								<p><span className="highlight">Technology Used:</span>&nbsp;{technology}</p>

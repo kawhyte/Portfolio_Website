@@ -1,9 +1,9 @@
 {
   "name": "portfolio",
   "private": true,
-  "description": "A simple portfolio for developers",
+  "description": "Software Portfolio",
   "version": "0.1.1",
-  "author": "Smakosh <ismai23l@hotmail.com>",
+  "author": "Kenny Whyte",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.0",
     "dotenv": "^6.2.0",

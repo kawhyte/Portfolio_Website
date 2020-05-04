@@ -9,7 +9,7 @@
     "image":"https://res.cloudinary.com/babyhulk/image/upload/w_381,h_381,f_auto/v1588620339/project/paid_leaveV2.png",
     "demo":"https://festive-raman-38b110.netlify.app/",
     "github":"https://github.com/kawhyte/PaidLeaveTrackerGatsby",
-    "technology": "React/Gatsby, Openstate Graphql API, Automated with IFTTT, CI/CD with Netlify & Gatsby Cloud",
+    "technology": "React/Gatsby, Openstate Graphql API, Automated with IFTTT, CI/CD with Netlify & Gatsby Cloud, Tailwinds CSS",
     "disableDemo": false,
     "linkStatus": "a"
 },

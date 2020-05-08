@@ -7,7 +7,8 @@ export const Wrapper = styled.div`
 export const Grid = styled.div`
 	display: grid;
 	align-items: center;
-	grid-template-columns: repeat(3, 1fr);
+	justify-items:center;
+	grid-template-columns: repeat(2, 1fr);
 	grid-template-rows: 8fr;
 	gap: 1.2rem 1.2rem;
 
@@ -21,7 +22,7 @@ export const Grid = styled.div`
 `
 
 export const Item = styled.div`
-	width: 100%;
+	width: 90%;
 	height: 100%;
 	overflow: hidden;
 	box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.11);
@@ -43,6 +44,9 @@ export const Content = styled.div`
 		margin: 10;
 		max-width:100%; 
 		max-height:100%; 
+		display:block;
+		margin:auto;
+		padding-bottom: 25px;
 	};
 	.highlight {
 		background-color:#EFEEFF;

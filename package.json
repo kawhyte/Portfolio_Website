@@ -42,6 +42,7 @@
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
+    "clean": "rm -rf .cache",
     "start": "gatsby develop -o",
     "format": "prettier --write \"src/**/*.js\"",
     "reset": "rm -rf .cache/ public/",
@@ -65,5 +66,4 @@
   "bugs": {
     "url": "https://github.com/smakosh/gatsby-portfolio-dev/issues"
   }
-  
 }

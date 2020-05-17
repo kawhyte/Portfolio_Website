@@ -1,12 +1,12 @@
 [
     
-    
+  
     {
     "id":1,
     "name":"Description: ",
     "title": "Paid Leave Tracker V2",
     "description": "Paid Leave Tracker (Scalability and 90% speed improvement)",
-    "image":"https://res.cloudinary.com/babyhulk/image/upload/h_500,f_auto/v1588620339/project/paid_leaveV2.png",
+    "image":"https://res.cloudinary.com/babyhulk/image/upload/w_450,h_450,f_auto/v1588620339/project/paid_leaveV2.png",
     "demo":"https://paidleave.netlify.app/",
     "github":"https://github.com/kawhyte/PaidLeaveTrackerGatsby",
     "technology": "React/Gatsby, Openstate Graphql API, Automated with IFTTT, CI/CD with Netlify & Gatsby Cloud, Tailwinds CSS",
@@ -18,7 +18,7 @@
     "name":"Description: ",
     "title": "Paid Leave Tracker V1",
     "description": "A familiy paid time leave bill legislation tracker - (Minimum viable product)",
-    "image":"https://res.cloudinary.com/babyhulk/image/upload/h_500,f_auto/v1584934443/project/paid_leave_v1.png",
+    "image":"https://res.cloudinary.com/babyhulk/image/upload/w_450,h_450,f_auto/v1584934443/project/paid_leave_v1.png",
     "demo":"https://paidleavetracker.herokuapp.com/",
     "github":"https://github.com/kawhyte/PaidLeaveTracker",
     "technology": "HTML, Node.js, Express, Cron, Openstate Rest API, Firebase DB, Heroku",
@@ -27,10 +27,22 @@
 },
 {
     "id":1,
+    "name":"Description: ",
+    "title": "Video Game Finder",
+    "description": "A Video Game Search & Recommendation Engine",
+    "image":"https://res.cloudinary.com/babyhulk/image/upload/w_450,h_450,f_auto/v1589748942/project/video_game.png",
+    "demo":"https://paidleave.netlify.app/",
+    "github":"https://github.com/kawhyte/PaidLeaveTrackerGatsby",
+    "technology": "React, Rawg.io API,  Netlify, Tailwinds CSS",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+{
+    "id":1,
     "name":"Lotto Scratch Tickets API",
     "title": "Florida Lotto API",
     "description": "An API for the Florida Lottery Scratch-off game",
-    "image":"https://res.cloudinary.com/babyhulk/image/upload/h_400,f_auto/v1584937440/project/lotto_v2.jpg",
+    "image":"https://res.cloudinary.com/babyhulk/image/upload/w_450,h_450,f_auto/v1584937440/project/lotto_v2.jpg",
     "demo":"https://lottoticketapi.herokuapp.com/api-docs/",
     "github":"https://github.com/kawhyte/Lotto-Tickets-API",
     "technology": "Node.js, Express, Mongoose, MongoDB Atlas, Swagger, Heroku",
@@ -55,7 +67,7 @@
     "name":"City Weather",
     "title": "City Weather",
     "description": "Look up the weather anywhere in the world",
-    "image":"https://res.cloudinary.com/babyhulk/image/upload/h_500,f_auto/v1584937393/project/weather.png",
+    "image":"https://res.cloudinary.com/babyhulk/image/upload/w_450,h_450,f_auto/v1584937393/project/weather.png",
     "demo":"https://the-city-weather-app.herokuapp.com/",
     "github":"https://github.com/kawhyte/City-Weather",
     "technology": "Google and Darksky API,  Javascript, HTML, CSS, Heroku",
@@ -63,18 +75,7 @@
     "linkStatus": "a"
 },
 
-{
-    "id":2,
-    "name":"Video Game of the year",
-    "title":"Video Game of the year",
-    "description": "The best Video Games for each console",
-    "image":"https://res.cloudinary.com/babyhulk/image/upload/w_381,h_381,f_auto/v1584935193/project/VGOTY.jpg",
-    "demo":"https://nifty-yalow-aee91c.netlify.com",
-    "github":"https://github.com/kawhyte/VideoGameOfTheYear",
-    "technology": "Rawg.io game API,  Netlify, Javascript, HTML, CSS, Tachyon",
-    "disableDemo": false,
-    "linkStatus": "a"
-},
+
 {
     "id":3,
     "name":"E-commerce website",

@@ -35,3 +35,16 @@
     "disableDemo": false,
     "linkStatus": "a"
 },
+
+{
+    "id":2,
+    "name":"Video Game of the year",
+    "title":"Video Game of the year",
+    "description": "The best Video Games for each console",
+    "image":"https://res.cloudinary.com/babyhulk/image/upload/w_381,h_381,f_auto/v1584935193/project/VGOTY.jpg",
+    "demo":"https://nifty-yalow-aee91c.netlify.com",
+    "github":"https://github.com/kawhyte/VideoGameOfTheYear",
+    "technology": "Rawg.io game API,  Netlify, Javascript, HTML, CSS, Tachyon",
+    "disableDemo": false,
+    "linkStatus": "a"
+},

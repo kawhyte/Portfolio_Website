@@ -62,18 +62,7 @@
     "disableDemo": false,
     "linkStatus": "a"
 },
-{
-    "id":6,
-    "name":"Lotto Look-up",
-    "title": "Lotto Look-up",
-    "description": "A responsive look-up page (with React)",
-    "image":"https://res.cloudinary.com/babyhulk/image/upload/w_381,h_381,f_auto/v1584937362/project/UBmfJuyb_o.jpg",
-    "demo":"https://unruffled-galileo-e49c71.netlify.com",
-    "github":"https://github.com/kawhyte/React-Lotto-App",
-    "technology": "React, Netlify",
-    "disableDemo": false,
-    "linkStatus": "a"
-},
+
 {
     "id":2,
     "name":"Video Game of the year",
@@ -108,19 +97,6 @@
     "demo":"https://github.com/kawhyte/Arduino-Datalogger/blob/master/README.md",
     "github":"https://github.com/kawhyte/Arduino-Datalogger",
     "technology": "Arduino, RFID, SQL, Plot.ly",
-    "disableDemo": true,
-    "linkStatus": ""
-},
-
-{
-    "id":5,
-    "name":"Robot Maze Algorithm",
-    "title":"Robot Maze Algorithm",
-    "description": "Robot navigation using multiple maze configurations.",
-    "image":"https://res.cloudinary.com/babyhulk/image/upload/w_381,h_381,f_auto/v1584937263/project/RfEmbrUc_o.jpg",
-    "demo":"https://github.com/kawhyte/Robot_Simple_Maze/blob/master/README.md",
-    "github":"https://github.com/kawhyte/Robot-Traversing-Maze",
-    "technology": "Virtual Robot simulator",
     "disableDemo": true,
     "linkStatus": ""
 }

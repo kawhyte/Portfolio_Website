@@ -31,8 +31,8 @@
     "title": "Video Game Finder",
     "description": "A Video Game Search & Recommendation Engine",
     "image":"https://res.cloudinary.com/babyhulk/image/upload/w_450,h_450,f_auto/v1589748942/project/video_game.png",
-    "demo":"https://paidleave.netlify.app/",
-    "github":"https://github.com/kawhyte/PaidLeaveTrackerGatsby",
+    "demo":"https://videogamefinder.netlify.app/",
+    "github":"https://github.com/kawhyte/",
     "technology": "React, Rawg.io API,  Netlify, Tailwinds CSS",
     "disableDemo": false,
     "linkStatus": "a"

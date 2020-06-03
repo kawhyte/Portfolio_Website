@@ -4,6 +4,18 @@
     {
     "id":1,
     "name":"Description: ",
+    "title": "Agency Contacts Search",
+    "description": "Find contact information for US states Government Agencies",
+    "image":"https://res.cloudinary.com/babyhulk/image/upload/v1591220931/hero-image/agency2.png",
+    "demo":"https://agencycontacts.netlify.app/",
+    "github":"https://github.com/kawhyte/Agency-Search",
+    "technology": "React/Gatsby, CI/CD with Netlify, Tailwinds CSS",
+    "disableDemo": false,
+    "linkStatus": "a"
+},
+    {
+    "id":1,
+    "name":"Description: ",
     "title": "Paid Leave Tracker V2",
     "description": "Paid Leave Tracker (Scalability and 90% speed improvement)",
     "image":"https://res.cloudinary.com/babyhulk/image/upload/w_450,h_450,f_auto/v1588620339/project/paid_leaveV2.png",
